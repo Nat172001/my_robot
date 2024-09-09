@@ -1,0 +1,38 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nataraj/ros2_ws/install/turtle/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/sim",
+        "/home/nataraj/ros2_ws/install/sim/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/planning",
+        "/home/nataraj/ros2_ws/install/planning/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/install/my_c3po_turtle/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/map_localize",
+        "/home/nataraj/ros2_ws/install/map_localize/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/map",
+        "/home/nataraj/ros2_ws/install/map/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/install/laser/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/install/gazebo/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/src/build/map",
+        "/home/nataraj/ros2_ws/src/install/map/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nataraj/ros2_ws/install/turtle/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/sim",
+        "/home/nataraj/ros2_ws/install/sim/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/planning",
+        "/home/nataraj/ros2_ws/install/planning/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/install/my_c3po_turtle/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/map_localize",
+        "/home/nataraj/ros2_ws/install/map_localize/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/build/map",
+        "/home/nataraj/ros2_ws/install/map/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/install/laser/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/install/gazebo/lib/python3.10/site-packages",
+        "/home/nataraj/ros2_ws/src/build/map",
+        "/home/nataraj/ros2_ws/src/install/map/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
