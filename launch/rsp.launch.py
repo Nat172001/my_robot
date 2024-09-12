@@ -28,7 +28,7 @@ def generate_launch_description():
         output='screen',
         parameters=[params]
     )
-
+    
     # Create a joint_state_publisher node
     node_joint_state_publisher = Node(
         package='joint_state_publisher_gui',
@@ -36,7 +36,7 @@ def generate_launch_description():
         name='joint_state_publisher',
         output='screen'
     )
-    
+
     # Declare RViz config file argument
     rviz_config = DeclareLaunchArgument(
         'rviz_config',
